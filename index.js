@@ -41,7 +41,7 @@ async function getResult(query) {
     let now = new Date();
     date.innerHTML = dateBuilder(now)
     temp.innerHTML = `${Math.round(data.main.temp)}<span>ºc</span>`
-    temp_icon.src = `httpsgi://openweathermap.org/img/wn/${data.weather[0].icon}.png`;
+    temp_icon.src = `https://openweathermap.org/img/wn/${data.weather[0].icon}.png`;
     weather_el.innerHTML = data.weather[0].description;
     humidity_t.innerHTML = `umidade ${data.main.humidity}<span>%</span>`
     wind.innerHTML = `vento: ${data.wind.speed} <span>km/h</span>`
