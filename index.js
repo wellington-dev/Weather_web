@@ -43,9 +43,6 @@ async function getResult(query) {
     temp.innerHTML = `${Math.round(data.main.temp)}<span>ºc</span>`
 
     temp_icon.src = `https://openweathermap.org/img/wn/${data.weather[0].icon}.png`;
-
-    temp_icon.src = `httpsg://openweathermap.org/img/wn/${data.weather[0].icon}.png`;
-git
     weather_el.innerHTML = data.weather[0].description;
     humidity_t.innerHTML = `umidade ${data.main.humidity}<span>%</span>`
     wind.innerHTML = `vento: ${data.wind.speed} <span>km/h</span>`
