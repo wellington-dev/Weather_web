@@ -11,7 +11,7 @@
 
 Esse projeto é uma aplicação que exibe os dados climáticos da região do usuário e de cidades escolhidas.
 
-Para ver o projeto web, clique aqui:
+Para ver o projeto web, clique aqui:<a href="https://wellington-dev.github.io/Weather_web/">Weather</a>
 
 ## Features
 
