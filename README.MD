@@ -2,7 +2,7 @@
 
 
 <h1>
-    <img style="border-radius:4px" src='gif/Animação.gif'>
+    <img style="border-radius:4px" src='gif/animaGif.gif'>
 </h1>
 
 
