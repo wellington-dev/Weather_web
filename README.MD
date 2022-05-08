@@ -30,6 +30,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Html
 - Weather API
 - api unsplash
+- Icons8
 
 
 
